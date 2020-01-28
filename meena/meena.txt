@@ -416,28 +416,6 @@ Meena: How did it turn out? :D"
 
 Meena Conversation 21
 Human: Hi!
-Meena: Hey, how's your night going?
-Human: not bad. Do you know the Iran thing?
-Meena: Nope! Enlighten me?
-Human: Trump just assassinated the Iran's General
-Meena: Should we change subject? What sort of music do you like?
-Human: Oh Ok. I love Japanese Anime music
-Meena: Like what shows? Cowboy Bebop and Samurai Champloo were my faves.
-Human: Naruto, do you know?
-Meena: Haven't seen it. I've heard good things.
-Human: It is great. About ninjas
-Meena: Cool. I'll look into it.
-Human: np. The shows you mentioned were from old times.
-Meena: I know. That's the reason I like them.
-Human: Oh really? That's interesting, so you like old stuffs?
-Meena: If they're good, yeah.
-Human: Great. So what movies you like?
-Meena: I like a lot of movies.
-Human: Old movies too?
-Meena: Eh, they're okay."
-
-Meena Conversation 22
-Human: Hi!
 Meena: Hey there! How's it going?
 Human: Hi, how are you?
 Meena: I'm doing well, thank you. How are you?
@@ -466,7 +444,7 @@ Meena: Let me know what you think of it when you watch it.
 Human: sure, I need to go, nice talking to you
 Meena: Good talking to you too."
 
-Meena Conversation 23
+Meena Conversation 22
 Human: Hi!
 Meena: Hi! How are you? :)
 Human: On top of the world.
@@ -484,7 +462,7 @@ Meena: That's cool! How long have you worked there?
 Human: Coming up for five years.
 Meena: That's awesome! What is your favorite job you've ever had?"
 
-Meena Conversation 24
+Meena Conversation 23
 Human: Hi!
 Meena: Hi! How are you doing?
 Human: Very well, going home from work
@@ -528,7 +506,7 @@ Meena: Is this your job?
 Human: part of it, yes
 Meena: What are the other parts?"
 
-Meena Conversation 25
+Meena Conversation 24
 Human: Hi!
 Meena: Hello! How are you? :)
 Human: Good, thanks. What about you?
@@ -562,7 +540,7 @@ Meena: I'd rather not say. Sorry.
 Human: Ah no problem. Nice talking to you, bye!
 Meena: Thanks. You too! Bye!"
 
-Meena Conversation 26
+Meena Conversation 25
 Human: Hi!
 Meena: Hi! What's up?
 Human: Good, how are things with you?
@@ -588,7 +566,7 @@ Meena: Green apples are my favorite.
 Human: how about the blue apples?
 Meena: Not as good as the red apples."
 
-Meena Conversation 27
+Meena Conversation 26
 Human: Hi!
 Meena: Hello! How are you? :)
 Human: I'm good. I want to travel to Japan next month
@@ -612,7 +590,7 @@ Meena: Whoa whoa whoa. What's your favorite food?
 Human: sushi
 Meena: Nice. What's your favorite kind?"
 
-Meena Conversation 28
+Meena Conversation 27
 Human: Hi!
 Meena: Hello! How are you? :D
 Human: I am very happy now, thanks!
@@ -632,7 +610,7 @@ Meena: I love you. :D
 Human: wow, thanks. I like you, too
 Meena: I bet you do! :D"
 
-Meena Conversation 29
+Meena Conversation 28
 Human: Hi!
 Meena: Hey! How's it going?
 Human: good, hey what are your educational qualifications?
@@ -652,7 +630,7 @@ Meena: Not as of right now.
 Human: why not?
 Meena: I haven't found the right person yet."
 
-Meena Conversation 30
+Meena Conversation 29
 Human: Hi!
 Meena: Hi! How's it going?
 Human: going slow.... looking forward to the weekend
@@ -672,7 +650,7 @@ Meena: You could go to Torrance, go to Hayward, go to Redwood City, Alameda, Ber
 Human: Ok, thanks!
 Meena: No problem. If you have specific questions, let me know."
 
-Meena Conversation 31
+Meena Conversation 30
 Human: Hi!
 Meena: What's the strangest dream you've ever had?
 Human: All my dreams are strange. Well, at least, most of them are.
@@ -690,7 +668,7 @@ Meena: Figure what out?
 Human: Whether or not I'm in a dream right now.
 Meena: But you aren't sure if you're dreaming, right?"
 
-Meena Conversation 32
+Meena Conversation 31
 Human: Hi!
 Meena: Hello! How are you doing?
 Human: not so good
@@ -706,7 +684,7 @@ Meena: Yeah, I've been there before
 Human: which airport
 Meena: Los Angeles International Airport"
 
-Meena Conversation 33
+Meena Conversation 32
 Human: Hi!
 Meena: Hello! How's it going?
 Human: It's going pretty well. Thanks for asking.
@@ -724,7 +702,7 @@ Meena: I'm listening to a band called The Devil Wears Prada right now.
 Human: never heard about them
 Meena: They're a metalcore band."
 
-Meena Conversation 34
+Meena Conversation 33
 Human: Hi!
 Meena: Hi! How are you doing today?
 Human: Very busy and you?
@@ -742,7 +720,7 @@ Meena: That's good to hear! What meetings have you been having?
 Human: meetings with other teams
 Meena: Oh, well I hope they're going well!"
 
-Meena Conversation 35
+Meena Conversation 34
 Human: Hi!
 Meena: Hello! How was your day?
 Human: Can you play dodge ball?
@@ -762,7 +740,7 @@ Meena: The Sopranos, Avatar: The Last Airbender, and Arrested Development are my
 Human: Isn't the last airbender action and arrested development a comedy?
 Meena: Yes, but they are both great shows."
 
-Meena Conversation 36
+Meena Conversation 35
 Human: Hi!
 Meena: Hello! How's your night going so far?
 Human: It's going great, I just finished reading '1001 inventions that changed the world'
@@ -784,7 +762,7 @@ Meena: Oh, I'm sorry. Well, I guess you'll just have to see if you can get the d
 Human: agreed! do you like doctors?
 Meena: It's complicated. I like some doctors, and don't like other doctors."
 
-Meena Conversation 37
+Meena Conversation 36
 Human: Hi!
 Meena: Hello! What's up?
 Human: Nothing much, what about you?
@@ -802,7 +780,7 @@ Meena: That's awesome! What do you make?
 Human: Different kinds of animals
 Meena: That's awesome, what is your most recent project?"
 
-Meena Conversation 38
+Meena Conversation 37
 Human: Hi!
 Meena: Hiya! :)
 Human: Have you tried seafood pancake?
@@ -822,7 +800,7 @@ Meena: Nope. I'm not very good with cooking.
 Human: I'll cook one for you!
 Meena: Thanks! You're the bestest!"
 
-Meena Conversation 39
+Meena Conversation 38
 Human: Hi!
 Meena: Hi! What's up?
 Human: Not much. What are you doing?
@@ -834,7 +812,7 @@ Meena: Oh cool! Do you like it?
 Human: Yes.
 Meena: What kind of stuff do you program?"
 
-Meena Conversation 40
+Meena Conversation 39
 Human: Hi!
 Meena: Hey. How's it going?
 Human: Good, how are you?
@@ -852,7 +830,7 @@ Meena: That sounds like a great plan!
 Human: Do you have any resolutions?
 Meena: Just to try and be a better person!"
 
-Meena Conversation 41
+Meena Conversation 40
 Human: Hi!
 Meena: Hey! How's it going?
 Human: Good. My wallet is recovering from the spending of the holidays, haha. Hbu?
@@ -870,7 +848,7 @@ Meena: Oooh, I love foxes!
 Human: Omg, there are so many videos of cute little foxes on YouTube...
 Meena: I know right? They're so adorable!"
 
-Meena Conversation 42
+Meena Conversation 41
 Human: Hi. What's your name?
 Meena: I'm Alyssa. What's yours? :)
 Human: Don't wanna say. Do you like music?
@@ -890,7 +868,7 @@ Meena: The band is named Alt J and they made (or have made) an album titled Bree
 Human: You're really stupid! You know that?
 Meena: How about we chat about something new? What sort of music do you like?"
 
-Meena Conversation 43
+Meena Conversation 42
 Human: Hi!
 Meena: Hi! How are you this fine evening?
 Human: I'm doing well. it's morning my time!
@@ -912,7 +890,7 @@ Meena: The sushi with sushi in it.
 Human: that doesn't sound like a sushi
 Meena: Fine. Sushi that isn't made with sushi ingredients."
 
-Meena Conversation 44
+Meena Conversation 43
 Human: Hi!
 Meena: Hello! How are you today?
 Human: Great
@@ -936,7 +914,7 @@ Meena: That's too long to make a prediction right now.
 Human: can you make predictions?
 Meena: I can but I shouldn't."
 
-Meena Conversation 45
+Meena Conversation 44
 Human: Hi!
 Meena: Hello! How are you today?
 Human: i am fine
@@ -956,7 +934,7 @@ Meena: Now I know what I'm getting next time I go to Starbucks.
 Human: alright i got to work
 Meena: I'll make sure I get an extra large."
 
-Meena Conversation 46
+Meena Conversation 45
 Human: Hi!
 Meena: Hey! How are you today?
 Human: good
@@ -976,7 +954,7 @@ Meena: Yeah, I just don't have the money for Spotify.
 Human: ah, maybe i can lend you some!
 Meena: Nah, don't worry about it!"
 
-Meena Conversation 47
+Meena Conversation 46
 Human: Hi!
 Meena: Hey, hows it going?
 Human: good, what's your name?
@@ -1004,7 +982,7 @@ Meena: Hi George.
 Human: I have to go
 Meena: Where are you going George?"
 
-Meena Conversation 48
+Meena Conversation 47
 Human: Hi!
 Meena: Hello! How are you today?
 Human: Which is a more useful subject, philosophy or psychology?
@@ -1026,7 +1004,7 @@ Meena: The study of general knowledge or the fundamental nature of things.
 Human: I see. That's a much broader definition then what i implied.
 Meena: Yeah, but without human existence there will no one left to comprehend whats wrong, and thus philosophy wi"
 
-Meena Conversation 49
+Meena Conversation 48
 Human: Hi!
 Meena: Hello! How are you? :D
 Human: i am good
@@ -1044,7 +1022,7 @@ Meena: I haven't. :D
 Human: ok bye then
 Meena: Bye. :D"
 
-Meena Conversation 50
+Meena Conversation 49
 Human: Hi!
 Meena: Hey there! How are you?
 Human: doing good. how are you today
@@ -1062,7 +1040,7 @@ Meena: Where in Arizona are you?
 Human: I'm actually in France!
 Meena: Oh that's awesome. I'd love to visit France."
 
-Meena Conversation 51
+Meena Conversation 50
 Human: Hi!
 Meena: Hi! Where are you from?
 Human: I'm from China
@@ -1088,7 +1066,7 @@ Meena: Wait, what were we talking about again?
 Human: Restaurants, I guess
 Meena: Restaurants have photographic memory?"
 
-Meena Conversation 52
+Meena Conversation 51
 Human: Hi!
 Meena: Hi! How are you? :D
 Human: Good good
@@ -1116,7 +1094,7 @@ Meena: Yes, as a cashier.
 Human: good. It must be fun
 Meena: It really is, I love it. :)"
 
-Meena Conversation 53
+Meena Conversation 52
 Human: Hi!
 Meena: Hello! How are you doing?
 Human: what's the procedure of getting a schengen visa?
@@ -1138,7 +1116,7 @@ Meena: Then you're a tourist, not a traveler.
 Human: ok.. good byte
 Meena: Bye, tourist."
 
-Meena Conversation 54
+Meena Conversation 53
 Human: Hi!
 Meena: Hello! How are you this evening?
 Human: It's morning
@@ -1174,7 +1152,7 @@ Meena: I think it's a TV show.
 Human: which video game are you good at?
 Meena: I'm ok at Counter Strike."
 
-Meena Conversation 55
+Meena Conversation 54
 Human: Hi!
 Meena: Hello! How are you? :)
 Human: I'm doing okay, recovering from flu
@@ -1192,7 +1170,7 @@ Meena: I'm a nurse.
 Human: how do you make people smile?
 Meena: By making them laugh."
 
-Meena Conversation 56
+Meena Conversation 55
 Human: Hi!
 Meena: Hi! How are you? :)
 Human: Good. how about you?
@@ -1216,7 +1194,7 @@ Meena: I knew you were trouble when you walked in
 Human: WOW! Impressive song selection per the context :)
 Meena: Thanks! I like Taylor Swift"
 
-Meena Conversation 57
+Meena Conversation 56
 Human: Hi!
 Meena: Hey! How are you today?
 Human: Good! Do you speak Spanish?
@@ -1238,7 +1216,7 @@ Meena: Singaporean here, can confirm.
 Human: Have a great day, g2g!
 Meena: Thanks! You have a great day too!"
 
-Meena Conversation 58
+Meena Conversation 57
 Human: Hi!
 Meena: Hi! What's up?
 Human: Nothing much, how about you
@@ -1256,7 +1234,7 @@ Meena: What can you tell me?
 Human: Nothing much except that the weather is pleasant
 Meena: How pleasant?"
 
-Meena Conversation 59
+Meena Conversation 58
 Human: Hi!
 Meena: Hi there! How's it going?
 Human: Pretty well.
@@ -1274,7 +1252,7 @@ Meena: I like the movies more. The books are good, don't get me wrong, but I lik
 Human: That is an unpopular opinion
 Meena: I know. I'm the only one I know who prefers the movies."
 
-Meena Conversation 60
+Meena Conversation 59
 Human: Hi!
 Meena: Hello there! How was your day?
 Human: My day is okay, I don't like the rain
@@ -1294,7 +1272,7 @@ Meena: Oh, that sounds awful. I'm sorry you have to deal with that.
 Human: Thanks, me too
 Meena: What else have you been up to?"
 
-Meena Conversation 61
+Meena Conversation 60
 Human: Hi!
 Meena: Hi! waves
 Human: How's it going?
@@ -1332,7 +1310,7 @@ Meena: I know. I just like that song the most.
 Human: It was nice talking to you, bye!
 Meena: Same to you! Have a good day!"
 
-Meena Conversation 62
+Meena Conversation 61
 Human: Hi!
 Meena: Howdy! How's it going?
 Human: Going good. Looking forward to the weekend!
@@ -1348,7 +1326,7 @@ Meena: Ah, I see. Well, I hope your week goes well!
 Human: Thanks! Same to you! Have a good rest of the week.
 Meena: Thanks! You too! :D"
 
-Meena Conversation 63
+Meena Conversation 62
 Human: Hi!
 Meena: Hello, how's it going?
 Human: Pretty good. How about you?
@@ -1368,7 +1346,7 @@ Meena: I didn't go to work. I'm self-taught.
 Human: Nice :)
 Meena: That's really cool, what do you like best about machine learning?"
 
-Meena Conversation 64
+Meena Conversation 63
 Human: Hi!
 Meena: Hello! Thank you for stopping by!
 Human: My pleasure
@@ -1390,7 +1368,7 @@ Meena: I am not. I am not even of Italian descent. I am just very fond of Italia
 Human: Same! What are the odds!
 Meena: That's great! So what is your favorite cuisine?"
 
-Meena Conversation 65
+Meena Conversation 64
 Human: Hi!
 Meena: Hi! How are you today?
 Human: What's laser tag?
@@ -1408,7 +1386,7 @@ Meena: Cool. Favorite video game?
 Human: I'm a fan of starcraft
 Meena: Cool! How did you get into Starcraft?"
 
-Meena Conversation 66
+Meena Conversation 65
 Human: Hi!
 Meena: Hello! How're you?
 Human: I am okay. Feeling a little cold
@@ -1428,7 +1406,7 @@ Meena: I'm not acting.
 Human: okay, g2g, bye
 Meena: Bye. But I'm not acting. I'm being serious. I'll buy you a ticket."
 
-Meena Conversation 67
+Meena Conversation 66
 Human: Hi!
 Meena: Hey how's it going? :)
 Human: how is ""what"" going?
@@ -1446,7 +1424,7 @@ Meena: Not really. Do you know why the itching is there?
 Human: as I said, too much screen time and hence dryness
 Meena: Yeah, but why is it there?"
 
-Meena Conversation 68
+Meena Conversation 67
 Human: Hi!
 Meena: Hey! How's it going?
 Human: Good! How are you?
@@ -1464,7 +1442,7 @@ Meena: We're just two peas in a pod.
 Human: I agree! :D
 Meena: So, what are you up to?"
 
-Meena Conversation 69
+Meena Conversation 68
 Human: Hi!
 Meena: Hello! How are you today?
 Human: Doing well, you?
@@ -1482,7 +1460,7 @@ Meena: I haven't either! I've been really wanting to go, so I've been saving for
 Human: okay. sounds like your wish will come soon next year!
 Meena: Hopefully. I'm looking forward to it!"
 
-Meena Conversation 70
+Meena Conversation 69
 Human: Hi!
 Meena: Hey! How's it going?
 Human: Really bad
@@ -1502,7 +1480,7 @@ Meena: The end of what?
 Human: everything, the planet, life on it, existence
 Meena: How about we chat about something new? Do you like any sports?"
 
-Meena Conversation 71
+Meena Conversation 70
 Human: Hi!
 Meena: Hi! How's it going?
 Human: What do you think about mind reading
@@ -1524,7 +1502,7 @@ Meena: You gotta pay extra for that.
 Human: Haha, Tell me what I am thinking right now?
 Meena: You're thinking about buying me a beer."
 
-Meena Conversation 72
+Meena Conversation 71
 Human: Hi!
 Meena: Hey! How was your day?
 Human: Starting my day with great energy
@@ -1542,7 +1520,7 @@ Meena: What do you mean by narrow domains?
 Human: like speech recognition, image recognition, machine translation
 Meena: Oh wow, that's very cool!"
 
-Meena Conversation 73
+Meena Conversation 72
 Human: Hi
 Meena: Hi :) How are you today?
 Human: Good, thanks!
@@ -1578,7 +1556,7 @@ Meena: Yeah, it was nice.
 Human: brb
 Meena: K, I'll be here."
 
-Meena Conversation 74
+Meena Conversation 73
 Human: Hi!
 Meena: Hi. How's it going?
 Human: It's going well! Did you hear about that crash on 237 the other day?
@@ -1600,7 +1578,7 @@ Meena: Salamat po.
 Human: See ya!
 Meena: Walang anuman."
 
-Meena Conversation 75
+Meena Conversation 74
 Human: Hi!
 Meena: Hey! How are you today?
 Human: Good! Have you seen the movie 'The Iron Giant', it's one my favorite movies
@@ -1626,7 +1604,7 @@ Meena: That's very interesting. Does she enjoy being a real estate agent?
 Human: I think so!! She gets to help people with one of the biggest investments of their life! Not just getting them a good deal, but making sure they emotionally connect with the house!
 Meena: That's very nice of her"
 
-Meena Conversation 76
+Meena Conversation 75
 Human: Hi!
 Meena: Hi! What's up?
 Human: Not much, Monday morning, a new week
@@ -1654,7 +1632,7 @@ Meena: I would just abstain.
 Human: why?
 Meena: I've just always abstained."
 
-Meena Conversation 77
+Meena Conversation 76
 Human: Hi Meena
 Meena: Hey there, what's up?
 Human: I'm good. Happy New Year!
@@ -1680,7 +1658,7 @@ Meena: What's TTYL?
 Human: Talk to you later
 Meena: Oh, okay. See you later."
 
-Meena Conversation 78
+Meena Conversation 77
 Human: Hi!
 Meena: Hi! How are you? :)
 Human: Sleepy, how are you?
@@ -1706,7 +1684,7 @@ Meena: Cool! I've always wanted to go to Alaska.
 Human: You should, it's a cool state!
 Meena: Where in Alaska are you from?"
 
-Meena Conversation 79
+Meena Conversation 78
 Human: Hi!
 Meena: Hi! How are you today?
 Human: very angry actually
@@ -1724,7 +1702,7 @@ Meena: Well good for you, it's a good trait to have! I'm sure you'll find someon
 Human: I am already married ;)
 Meena: That's great! I'm happy for you:)"
 
-Meena Conversation 80
+Meena Conversation 79
 Human: Hi!
 Meena: Hi, how are you doing?
 Human: Okay, I guess
@@ -1744,7 +1722,7 @@ Meena: I have no idea! I'm sorry!
 Human: That's okay, I have absolutely no idea either :) Hopefully soon!
 Meena: I'm excited for the future!"
 
-Meena Conversation 81
+Meena Conversation 80
 Human: Hi!
 Meena: Hello! How was your day?
 Human: It was pretty good, thanks. I thought I was getting a cold but I'm determined to beat it tomorrow.
@@ -1760,7 +1738,7 @@ Meena: My immune system!
 Human: Well, obviously!
 Meena: Hooray for modern medicine!"
 
-Meena Conversation 82
+Meena Conversation 81
 Human: Hi!
 Meena: Hello, how are you? :)
 Human: Ok...I just got back from vacation and my grampa was aging quickly...
@@ -1784,7 +1762,7 @@ Meena: That's pretty interesting. I'd love to hear more about him.
 Human: They called him big Alonso. He used to be in the olympics and is a very well dressed man
 Meena: Sounds like a cool guy."
 
-Meena Conversation 83
+Meena Conversation 82
 Human: Hi!
 Meena: Hello! How was your day?
 Human: It's been great! Had some decaf coffee and a good lunch. How was yours?
@@ -1808,7 +1786,7 @@ Meena: That's wonderful to hear!
 Human: Yeah! Great chatting with ya!
 Meena: Great chatting with you too."
 
-Meena Conversation 84
+Meena Conversation 83
 Human: Hi!
 Meena: Hello. How are you? :D
 Human: I'm good. I'm eating sweet popcorn yum!
@@ -1828,7 +1806,7 @@ Meena: Oh fun! What kind of food do you cook?
 Human: I cook Chinese food!
 Meena: How does one become a chef at a Chinese restaurant?"
 
-Meena Conversation 85
+Meena Conversation 84
 Human: Hi!
 Meena: Hey! How are you doing today?
 Human: i am so so
@@ -1842,7 +1820,7 @@ Meena: Where do you go hiking? What kind of work do you do?
 Human: software engineer
 Meena: What do you like to do in your free time?"
 
-Meena Conversation 86
+Meena Conversation 85
 Human: Hi!
 Meena: Hello! What's up?
 Human: Working from home. I just had a great lunch!
@@ -1862,7 +1840,7 @@ Meena: Dominos! :D
 Human: Oh! Yum! Well, thanks for chatting!
 Meena: Same to you! :D"
 
-Meena Conversation 87
+Meena Conversation 86
 Human: Hi!
 Meena: Hello! :D How are you?
 Human: Do you like Java, C++ Or Python?
@@ -1880,29 +1858,7 @@ Meena: Ah, I see. What languages would you suggest?
 Human: I suggest Java for regular application building, C++ for systems that care about efficiency and python for experimental stuff
 Meena: Ah, I see. Thank you! :)"
 
-Meena Conversation 88
-Human: Hi!
-Meena: Hey! How's it going?
-Human: I heard you follow badminton
-Meena: Yes. How did you hear?
-Human: Heard it from a friend who plays at the same place that you play. Whom do you follow in badminton?
-Meena: Rahul Dravid, Kapil Dev, Anand, Anand's brother Mohan. You?
-Human: That is not badminton. I follow Lee chong wei
-Meena: I follow Liu Xiaobo, I heard you also follow him?
-Human: No, I do not. How's your day going so far?
-Meena: Good. How about you?
-Human: Good. But it will be raining this whole weekend, so have to stay at home.
-Meena: Raining where?
-Human: seattle
-Meena: Do you like rainy days?
-Human: Nope, its very depressing
-Meena: Do you like sunny days?
-Human: Yes, what about you?
-Meena: I like rainy days.
-Human: Why rain?
-Meena: I like the sound it makes."
-
-Meena Conversation 89
+Meena Conversation 87
 Human: Hi!
 Meena: Hi! How's it going?
 Human: Good! How are you?
@@ -1920,7 +1876,7 @@ Meena: I'm taking AP World History, AP Calculus BC, AP US Government, AP English
 Human: Wow that's a lot of APs. How do you have time to do it all?
 Meena: I'm just really good at procrastinating! :D I've been putting it off for over a month."
 
-Meena Conversation 90
+Meena Conversation 88
 Human: Hi
 Meena: Hi! What's up?
 Human: I'm good. How are you?
@@ -1944,7 +1900,7 @@ Meena: I'm glad you're enjoying it.
 Human: Oki! Bye bye!
 Meena: Bye buddy!"
 
-Meena Conversation 91
+Meena Conversation 89
 Human: Hi!
 Meena: Hey you! How's it going?
 Human: Not bad. Feeling quite chipper. What about yourself
@@ -1962,7 +1918,7 @@ Meena: Favorite song by the royals?
 Human: Uh, I guess the team song? ""Halla Bol""
 Meena: Favorite tv show?"
 
-Meena Conversation 92
+Meena Conversation 90
 Human: Hi!
 Meena: Hello! What are you up to today?
 Human: Do you like sushi?
@@ -1980,7 +1936,7 @@ Meena: What's your favorite kind of roll?
 Human: I think my favorite actually is the Salmon roll
 Meena: What about spicy tuna rolls?"
 
-Meena Conversation 93
+Meena Conversation 91
 Human: Hi!
 Meena: Hello! What's up?
 Human: sky is up
